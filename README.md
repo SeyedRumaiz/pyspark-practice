@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains multiple PySpark-based projects and exercises, including:
+This repository contains **9 weeks of PySpark practice exercises and projects**, covering:
 
 - Data preprocessing and analysis
 - Filtering and selection operations
